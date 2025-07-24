@@ -1,0 +1,14 @@
+{
+  "avalanche": {
+    "MessageSender": "0x34D93FaA57f0c777E10ae89a590E4F15228fC4d7",
+    "deployedAt": "2025-05-06T18:08:26.055Z"
+  },
+  "celo": {
+    "MessageReceiver": "0x25a8e2d1e9883D1909040b6B3eF2bb91feAB2e2f",
+    "deployedAt": "2025-07-24T20:32:03.298Z"
+  },
+  "sepolia": {
+    "MessageSender": "0x25a8e2d1e9883D1909040b6B3eF2bb91feAB2e2f",
+    "deployedAt": "2025-07-24T01:26:39.327Z"
+  }
+}

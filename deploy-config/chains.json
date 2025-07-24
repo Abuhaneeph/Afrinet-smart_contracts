@@ -1,0 +1,44 @@
+{
+  "chains": [
+    {
+      "description": "Avalanche testnet fuji",
+      "chainId": 6,
+      "rpc": "https://api.avax-test.network/ext/bc/C/rpc",
+      "tokenBridge": "0x61E44E506Ca5659E6c0bba9b678586fA2d729756",
+      "wormholeRelayer": "0xA3cF45939bD6260bcFe3D66bc73d60f19e49a8BB",
+      "wormhole": "0x7bbcE28e64B3F8b84d876Ab298393c38ad7aac4C"
+    },
+    {
+      "description": "Mantle",
+      "chainId": 35,
+      "rpc": "_MANTLE_SEPOLIA_RPC_",
+      "tokenBridge": "0x75Bfa155a9D7A3714b0861c8a8aF0C4633c45b5D",
+      "wormholeRelayer": "0x306B68267Deb7c5DfCDa3619E22E9Ca39C374f84",
+      "wormhole": "0x376428e7f26D5867e69201b275553C45B09EE090"
+    },
+    {
+      "description": "Sepolia Testnet",
+      "chainId": 10002,
+      "rpc": "__SEPOLIA_RPC__",
+      "tokenBridge": "0xDB5492265f6038831E89f495670FF909aDe94bd9",
+      "wormholeRelayer": "0x7B1bD7a6b4E61c2a123AC6BC2cbfC614437D0470",
+      "wormhole": "0x4a8bc80Ed5a4067f1CCf107057b8270E0cC11A78"
+    },
+    {
+      "description": "Celo",
+      "chainId": 14,
+      "rpc": "__CELO_RPC__",
+      "tokenBridge": "0x05ca6037eC51F8b712eD2E6Fa72219FEaE74E153",
+      "wormholeRelayer": "0x306B68267Deb7c5DfCDa3619E22E9Ca39C374f84",
+      "wormhole": "0xa321448d90d4e5b0A732867c18eA198e75CAC48E"
+    },
+       {
+      "description": "Base",
+      "chainId": 14,
+      "rpc": "https://sepolia.base.org",
+      "tokenBridge": "0x05ca6037eC51F8b712eD2E6Fa72219FEaE74E153",
+      "wormholeRelayer": "0x306B68267Deb7c5DfCDa3619E22E9Ca39C374f84",
+      "wormhole": "0xa321448d90d4e5b0A732867c18eA198e75CAC48E"
+    }
+  ]
+}
